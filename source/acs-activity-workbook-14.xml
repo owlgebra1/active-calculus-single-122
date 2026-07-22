@@ -51,7 +51,7 @@
         <p permid="jno">
           The design of this workbook is such that each Preview Activity and Activity starts on a right-hand page.
           The workbook is offered in two volumes:
-          the first for chapters 1<ndash/>4 and the second for chapters 5<ndash/>8.  This workbook is for chapters 1<ndash/>4.
+          the first for chapters 1<ndash/>5 and the second for chapters 6<ndash/>8.  This MA 122 workbook is for chapters 1<ndash/>5.
         </p>
       </preface>
     </frontmatter>
@@ -61,6 +61,7 @@
     <xi:include href="./chap-2-wb.xml"/>    
     <xi:include href="./chap-3-wb.xml"/>
     <xi:include href="./chap-4-wb.xml"/> 
+    <xi:include href="./chap-5-wb.xml"/>
 
 
     <backmatter>
