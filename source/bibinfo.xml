@@ -41,6 +41,17 @@
     </credit>
   <date><today/></date>
 
+  <credit>
+      <title>Course Editor</title>
+      <author>
+        <personname>Christopher W. Portwood</personname>
+        <department>Department of Mathematics</department>
+        <institution>University of South Carolina</institution>
+        <email>portwood@mailbox.sc.edu</email>
+      </author>
+    </credit>
+  <date><today/></date>
+
   <!--
   <credit>
     <role>Cover Image</role>
