@@ -35,7 +35,7 @@
       <title><line>Activities Workbook</line>
       <line>for</line>
       <line>Active Calculus Single Variable</line>
-      <line>Chapters 1<ndash/>5, 2nd Edition</line>
+      <line>Chapters 1<ndash/>4, 2nd Edition</line>
       </title>
     <frontmatter permid="WYW">
       <xi:include href="./bibinfo.xml"/>
@@ -44,14 +44,14 @@
 
       <preface permid="qRN">
         <p permid="Dgf">
-          This Activities Workbook for <pubtitle>Active Calculus Single Variable</pubtitle> (Chapters 1-5) collects all the Preview Activities and Activities in a way that each starts on a new page.
+          This Activities Workbook for <pubtitle>Active Calculus Single Variable</pubtitle> (Chapters 1-4) collects all the Preview Activities and Activities in a way that each starts on a new page.
           The Activities Workbook provides space for students to write and organize their work as they complete the activities found in the text.
         </p>
 
         <p permid="jno">
           The design of this workbook is such that each Preview Activity and Activity starts on a right-hand page.
           The workbook is offered in two volumes:
-          the first for chapters 1<ndash/>5 and the second for chapters 6<ndash/>8.  This MA 122 workbook is for chapters 1<ndash/>5.
+          the first for chapters 1<ndash/>4 and the second for chapters 6<ndash/>8.  This MA 122 workbook is for chapters 1<ndash/>5.
         </p>
       </preface>
     </frontmatter>
